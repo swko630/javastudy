@@ -18,7 +18,7 @@ public class PartTime extends Employee{
     this.hourPay = hourPay;
   }
   
-
+  //method
   public int getHourPay() {
     return hourPay;
   }
